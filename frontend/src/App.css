@@ -1,0 +1,10 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+
+.App{
+    margin-top: 80px;
+}
+
+.App footer{
+    margin-bottom: 0;
+}

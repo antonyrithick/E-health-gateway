@@ -1,0 +1,17 @@
+.book .form-group{
+    margin:10px;
+    padding: 10px;
+}
+
+.book input{
+    margin-left: 30px;
+}
+
+.book form{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
